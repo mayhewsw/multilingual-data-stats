@@ -23,3 +23,5 @@ paper.
 | xh       | 25M             | 111M              |    13,465,828 | 13M                 |
 | sw       | 332M            | 1.6G              |   275,281,887 | 275M                |
 
+
+![Graph of token counts](cc-100.png)
