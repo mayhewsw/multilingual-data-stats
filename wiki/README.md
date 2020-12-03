@@ -12,3 +12,5 @@ The "Wiki Size (bytes)" column is the number of bytes in the *compressed dump*, 
 The "Tokens" field is calculated over each dump from 20201001. Using code from [XLM-R repo](https://github.com/facebookresearch/XLM), specifically the [`get-data-wiki.sh`](https://github.com/facebookresearch/XLM/blob/master/get-data-wiki.sh) script, then running `wc -w` on the tokenized `*.all` text file. I did this on a c5.2xlarge instance on AWS, which took about 2 days (with some gaps for troubleshooting) and about $20.
 
 The "In mBERT?" column came by matching languages up against the [mBERT readme](https://github.com/google-research/bert/blob/master/multilingual.md).
+
+![Graph of Wiki sizes](wiki.png)
