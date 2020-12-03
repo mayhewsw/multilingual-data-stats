@@ -7,3 +7,6 @@ I don't know what "tokens" refers to -- whether it is whitespace-delineated word
 This data can be found [here](https://www.tensorflow.org/datasets/catalog/c4#c4multilingual). I have not validated the data
 sizes against the table.
 
+
+![Graph of sizes](mc4.png)
+
