@@ -14,3 +14,6 @@ The "Tokens" field is calculated over each dump from 20201001. Using code from [
 The "In mBERT?" column came by matching languages up against the [mBERT readme](https://github.com/google-research/bert/blob/master/multilingual.md).
 
 ![Graph of Wiki sizes](wiki.png)
+
+See also:
+* [Wiki-40B: Multilingual Language Model Dataset](https://www.aclweb.org/anthology/2020.lrec-1.297/) by Guo et al. LREC 2020 (dataset [here](https://www.tensorflow.org/datasets/catalog/wiki40b))
