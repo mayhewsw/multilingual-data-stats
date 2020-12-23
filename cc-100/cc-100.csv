@@ -4,6 +4,7 @@ vi,Vietnamese,24757,137.3
 ru,Russian,23408,278
 id,Indonesian,22704,148.3
 fa,Persian,13259,111.6
+sv,Swedish,12950,85
 ro,Romanian,10354,61.4
 de,German,10297,66.6
 fr,French,9780,56.8
@@ -12,6 +13,7 @@ no,Norwegian,8494,49
 pt,Portuguese,8405,49.1
 da,Danish,7823,45.6
 hu,Hungarian,7807,58.4
+uk,Ukrainian,6960,84.6
 fi,Finnish,6730,54.3
 pl,Polish,6490,44.6
 ko,Korean,5644,54.2
@@ -70,7 +72,6 @@ uz,Uzbek,91,0.7
 -,Hindi Romanized,88,0.5
 ga,Irish,86,0.5
 -,Urdu Romanized,85,0.5
-sv,Swedish,77.8,12.1
 -,Bengali Romanized,77,0.5
 am,Amharic,68,0.8
 pa,Punjabi,68,0.8
@@ -97,5 +98,4 @@ bs,Bosnian,14,0.1
 xh,Xhosa,13,0.1
 su,Sundanese,10,0.1
 om,Oromo,8,0.1
-uk,Ukrainian,6.5,84.6
 as,Assamese,5,0.1
