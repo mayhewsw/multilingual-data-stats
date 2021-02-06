@@ -13,6 +13,8 @@ The "Tokens" field is calculated over each dump from 20201001. Using code from [
 
 The "In mBERT?" column came by matching languages up against the [mBERT readme](https://github.com/google-research/bert/blob/master/multilingual.md).
 
+For what it's worth, [the XGLUE paper](https://arxiv.org/pdf/2004.01401.pdf) reported that a collection of sentences gathered from 100 languages in Wikipedia came to 101GB, although they don't give details on which 100 languages, or how the 101GB number is calculated. 
+
 ![Graph of Wiki sizes](wiki.png)
 
 See also:
