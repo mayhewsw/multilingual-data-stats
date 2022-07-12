@@ -1,0 +1,5 @@
+Model Name,Model Type,Number of Parameters,Num Languages,Data Source,Dataset Size,Link
+XLM/BERT,Encoder only,570M,100,Wikipedia,80GB*,https://arxiv.org/abs/1901.07291
+XLM-R,Encoder-only,270M-550M,100,CC100,2.5TB,https://arxiv.org/abs/1911.02116
+mT5,Encoder-decoder,300M-13B,101,mC4,26.76 TiB,https://arxiv.org/abs/2010.11934
+BLOOM,Autoregressive (same as GPT-3),350M-175B,46,BigScienceCorpus,???,https://huggingface.co/docs/transformers/model_doc/bloom
